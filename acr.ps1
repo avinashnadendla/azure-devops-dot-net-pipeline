@@ -1,2 +1,1 @@
-az acr create --resource-group learning \
-  --name democon2002 --sku Basic
+az acr create --resource-group learning --name democon2002 --sku Basic
